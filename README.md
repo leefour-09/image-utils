@@ -6,6 +6,6 @@ A tiny utility for normalizing and checking common image file extensions.
 
 ```bash
 npm install image-ext-utils
-
+```
 ## Related websites
 -  [Image To Image AI Generator](https://ideatoimg.com)
