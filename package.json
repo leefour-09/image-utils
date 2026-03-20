@@ -1,0 +1,21 @@
+{
+  "name": "image-ext-utils",
+  "version": "1.0.0",
+  "description": "A tiny utility for normalizing and checking common image file extensions.",
+  "main": "index.js",
+  "keywords": [
+    "image",
+    "extension",
+    "file-extension",
+    "upload",
+    "utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourname/image-ext-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourname/image-ext-utils/issues"
+  },
+  "license": "MIT"
+}
